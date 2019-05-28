@@ -1,6 +1,10 @@
 # Line-Fitting-with-OLS-TLS-and-RANSAC
 
-#### **FILE DESCRIPTIONS**
+#### **PROJECT DESCRIPTION**
+
+Implemented Ordinary Least Squares, Total Least Squares and RANSAC on all 3 datasets from scratch and visualized output
+
+#### **FILE DESCRIPTION**
 
 1) data1_new.pkl - Datafile1 with good dataset
 2) data2_new.pkl - Datafile2 with average dataset
